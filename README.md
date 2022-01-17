@@ -17,7 +17,7 @@ HCF-Core basique qui a été développé en début 2021, les factions sont gér�
 # Avancement
 Le plugin est terminé à environ 50%, une grosse partie du système de faction a été effectuée (sauf le système de claim) et les commandes sont finies à environ 60%.
 L'end, le nether, le système d'events, et de dtr ne sont pas faits (toutes les informations pour une faction sont terminés, comme les points, le dtr ou la balance).
-Le système de road (dans l'overworld) est terminé. Le système de territoire est terminé (les messages de "Entering <road>", sauf pour les factions.
+Le système de road (dans l'overworld) est terminé. Le système de territoire est terminé (les messages de "Entering <road>", sauf pour les factions. 
 
 ### Class importants pour voir l'avancée:
 <ul>
